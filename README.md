@@ -1,5 +1,3 @@
-npm i @supabase/supabase-js
-olgf7kXFNXZ0kskO
-npm i @tanstack/react-query
-npm i @tanstack/react-query-devtools
-npm i date-fns
+# CheckIn Central
+
+![Screenshot 2024-06-14 at 3 06 03 PM](https://github.com/shadsheikh/checkin-central/assets/66586570/bc096d86-b666-448d-835f-f3ce65d322b2)
